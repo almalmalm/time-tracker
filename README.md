@@ -1,18 +1,12 @@
-# create-svelte
+# Time Tracker
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Road map
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+1. Tracking time Done ✅
+2. Saving time and list this information In Progress [====== ]
+3. Add backend using json Not started [ ]
+4. Some additional changes ... Not started [ ]
+5. Rewrite backend in go + mongodb Not started [ ]
 
 ## Developing
 
