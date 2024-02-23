@@ -2,11 +2,11 @@
 
 ## Road map
 
-1. Tracking time Done ✅
-2. Saving time and list this information In Progress [====== ]
-3. Add backend using json Not started [ ]
-4. Some additional changes ... Not started [ ]
-5. Rewrite backend in go + mongodb Not started [ ]
+1. Tracking time ✅
+2. Saving time and list this information
+3. Add backend using json
+4. Some additional changes ...
+5. Rewrite backend in go + mongodb
 
 ## Developing
 
