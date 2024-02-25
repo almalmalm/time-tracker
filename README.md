@@ -7,7 +7,10 @@
 3. Add backend using json ❌
 4. Rewrite backend in go + mongodb ✅
 5. Add pause time functionality
-6. Some additional changes ...
+6. Add google auth
+7. Add mobile view
+8. Add testing
+9. Some additional changes ...
 
 ## Developing
 
