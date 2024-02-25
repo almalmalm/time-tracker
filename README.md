@@ -3,10 +3,14 @@
 ## Road map
 
 1. Tracking time ✅
-2. Saving time and list this information
-3. Add backend using json
-4. Some additional changes ...
-5. Rewrite backend in go + mongodb
+2. Saving time and list this information ✅
+3. Add backend using json ❌
+4. Rewrite backend in go + mongodb ✅
+5. Add pause time functionality
+6. Add google auth
+7. Add mobile view
+8. Add testing
+9. Some additional changes ...
 
 ## Developing
 
